@@ -1,4 +1,4 @@
-# News site project (example) 
+# Start in js (promt, alert, console.log, EventListener, querySelector)
 
 Developed as a practical task on the course '_Full-stack developer'_
 ---
@@ -10,6 +10,8 @@ Developed as a practical task on the course '_Full-stack developer'_
 * CSS 
 
 * Visual Studio Code
+
+* JavaScript
 
 ## How to open/run
 

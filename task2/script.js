@@ -16,3 +16,25 @@ addEventListener('click',(event)=>{
     }
     //else console.log(event.target.textContent,event);
 });
+
+
+consoleLog.addEventListener('mouseover',()=>{
+    consoleLog.style.color = ('#0085a1');  
+    //consoleLog.style.textDecoration='underline';
+});
+consoleLog.addEventListener('mouseout',()=>{
+    consoleLog.style.color = ('black');
+   // consoleLog.style.textDecoration='none';
+});
+alertP.addEventListener('mouseover',()=>{
+    alertP.style.color = ('#0085a1');  
+});
+alertP.addEventListener('mouseout',()=>{
+    alertP.style.color = ('black');
+});
+promptP.addEventListener('mouseover',()=>{
+    promptP.style.color = ('#0085a1');  
+});
+promptP.addEventListener('mouseout',()=>{
+    promptP.style.color = ('black');
+});
