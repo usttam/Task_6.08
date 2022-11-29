@@ -1,4 +1,4 @@
-# Start in js (promt, alert, console.log, EventListener, querySelector)
+# Start in JS (_prompt_, _alert_, _console.log_, _EventListener_, _querySelector_)
 
 Developed as a practical task on the course '_Full-stack developer'_
 ---
