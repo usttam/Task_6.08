@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+h1,form,p{    
+    margin: 10px;
+    padding: 5px;     
+}
+#duplicateField{
+    color: #e20505;
+    background-color: white;
+    height: 200px;
+    border: groove;
+}
